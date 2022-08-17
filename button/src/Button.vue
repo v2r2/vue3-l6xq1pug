@@ -29,7 +29,7 @@ button {
   font-size: var(--vue-font-size-00);
   font-weight: var(--vue-font-weight-button);
   letter-spacing: var(--vue-letter-spacing-button);
-  text-transform: uppercase;
+  // text-transform: uppercase;
 
   &.primary {
     background-color: var(--vue-color-primary);
