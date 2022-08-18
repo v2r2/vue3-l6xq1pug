@@ -11,7 +11,9 @@ const props = defineProps({
   /**
    * The variant of the button - either 'primary' or 'secondary'
    * @example 'secondary'
+   * 123456
    */
+
   variant: {
     type: String as PropType<'primary' | 'secondary'>,
     default: 'primary',
